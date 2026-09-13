@@ -1,0 +1,40 @@
+{
+  "app": {
+    "name": "Match Point Art",
+    "tagline": "Encontre. Visite. Deixe sua marca."
+  },
+  "home": {
+    "recentCheckIn": "{{name}} esteve aqui"
+  },
+  "point": {
+    "checkInButton": "Fazer check-in aqui",
+    "whoseBeenHere": "Quem já esteve aqui"
+  },
+  "search": {
+    "title": "Buscar pontos",
+    "placeholder": "Bairro, artista, tipo de arte...",
+    "filters": {
+      "newest": "Mais recentes"
+    }
+  },
+  "profile": {
+    "pointsVisited": "Pontos visitados",
+    "pointsAdded": "Pontos adicionados",
+    "recentCheckIns": "Últimos check-ins",
+    "language": "Idioma"
+  },
+  "onboarding": {
+    "step1": {
+      "title": "Descubra a arte da sua cidade",
+      "body": "Murais, stencils e caixas de luz pintadas, todos num mapa."
+    },
+    "step2": {
+      "title": "Visite e deixe sua marca",
+      "body": "Faça check-in nos pontos e veja quem mais já passou por lá."
+    },
+    "step3": {
+      "title": "Conecte-se pela arte",
+      "body": "Cada ponto conta uma história e conecta quem passou por ali."
+    }
+  }
+}
