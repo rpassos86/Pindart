@@ -1,4 +1,4 @@
-# Match Point Art (MPArt)
+# Pin'd Art
 
 Find it. Visit it. Leave your mark.
 
